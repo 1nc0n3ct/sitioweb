@@ -1,0 +1,75 @@
+
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+td{
+    border: 1px rgb(0, 0, 0) solid;
+    
+    border-radius: 20px;
+    padding: 10px 85px 5px 20px;
+}
+.tabla{
+    background: rgba(59, 59, 59, 0.212);
+    font-size: 14.5px;
+}
+.m_10{
+    font-size: 100px;
+}
+.single_right{
+    width: 500px;
+    padding: 50px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.384);
+    background:rgba(233, 233, 233, 0.932);
+}
+
+.single_image{
+    height: 600px;
+    width: 380px;
+    padding: 31px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.384);
+    background:rgba(0, 0, 0, 0.548);
+
+}
+
+.m10{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.shop_top{
+    padding: 41px;
+
+}
+
+.main{
+    background:url("../images/fondo_productos.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.single-end{
+    background: rgba(0, 0, 0, 0.493);
+    position: absolute;
+    right: 20px;
+    top: 34%;
+
+    padding: 30px;
+    width: 400px;
+    height: 250px;
+
+    border-radius: 50px;
+    box-shadow: 5px 5px 10px rgb(0, 0, 0);
+}
+.single-end h4{
+    color: white;
+    font-family:'Courier New', Courier, monospace ;
+}
+#h4e{
+    color: rgb(101, 160, 42);
+}
+.precio{
+    
+    position: absolute;
+    right: 350px;
+    top: 70px;
+}
+
