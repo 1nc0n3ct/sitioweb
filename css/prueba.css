@@ -1,0 +1,62 @@
+.shop_top{
+	padding: 30px;
+}
+.single_right{
+	padding: 15px;
+    background:rgba(233, 233, 233, 0.932);
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.384);
+    width: 50%;
+    
+	
+}
+.single_right h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+@media (max-width:345px){
+    .col-md-9{
+        width: 105%;
+    }
+
+    }
+.single_image{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.col-md-3{
+    background: rgba(0, 0, 0, 0.493);
+    border-radius: 50px;
+    padding: 25px;
+    box-shadow: 5px 5px 10px rgb(0, 0, 0);
+
+}
+#h4e{
+    color: rgb(101, 160, 42);
+}
+
+.single-end h4{
+    color: white;
+    font-family:'Courier New', Courier, monospace ;
+}
+
+.m10{
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-size: 17px;
+}
+.main{
+    background:url("../images/fondo_productos.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+td{
+    border: 1px rgb(0, 0, 0) solid;
+    
+    border-radius: 20px;
+    padding: 10px 40px 5px 15px;
+}
+.tabla{
+    background: rgba(59, 59, 59, 0.212);
+    font-size: 14.5px;
+}
